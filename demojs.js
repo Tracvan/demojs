@@ -1,3 +1,3 @@
 function showMessage(){
-    document.write('Xin chào!');
+    console.log('Xin chào!');
 }
